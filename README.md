@@ -4,6 +4,8 @@ This is a simple webapp to solve for the requirements of the Handshakes news art
 The FE is build with React, TailwindCSS and Typescript with ReactRouter for routing
 The mock BE is utilising json-server, and runs locally watching the `db.json` file
 
+The original README is stored in `PROBLEM.md`
+
 # Getting Started
 
 1. To start with please install dependencies with `npm`
